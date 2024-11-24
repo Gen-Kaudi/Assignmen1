@@ -1,0 +1,10 @@
+h1{
+    color: dimgrey;
+    align-content: center;
+}
+li{
+    list-style-type: georgian;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1494311697/photo/scenic-view-of-lake-in-norway-covered-in-fog.jpg?s=612x612&w=0&k=20&c=7GufErcU45IZO6snRSgg0BmZpFB5GZj-bPX_U0ECyRE=);
+}
